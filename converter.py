@@ -1,6 +1,6 @@
 # converter.py
 import argparse
-from PIL import Image
+from Pillow import Image
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
